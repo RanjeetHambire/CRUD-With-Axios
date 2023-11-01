@@ -1,5 +1,5 @@
 # Axios Crash Course
 
-> These are the files for the YouTube Axios crash course.
+> These repo created when learning Axios Library for the YouTube Axios crash course.
 
-"start.js" is just the event listeners and empty functions. "main.js" is the completed code
+
